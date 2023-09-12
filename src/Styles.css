@@ -1,0 +1,53 @@
+.custom-camera-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh; 
+  
+  }
+ 
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    
+}
+
+
+.card {
+    border: 93px solid #ccc;
+    border-radius: 10px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    transition: box-shadow 0.3s ease; 
+    align-items: center;
+}
+
+.card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+
+.contenedor {
+  display: flex;
+  justify-content: space-between; 
+}
+
+.caja {
+  width: 300px;
+  height: 300px;
+  margin-left: 30%;
+}
+
+.caja2 {
+  width: 300px;
+  height: 100px;
+  margin-right: 30%;
+}
