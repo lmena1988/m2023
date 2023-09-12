@@ -19,3 +19,6 @@ cd /d "C:\Users\javie\OneDrive\Escritorio\Nueva carpeta (5)\C.V.3\Cliente (React
 start npm start
 start node server.js
 start node api.js
+
+SOLO DEJA SUBIR EL CODIGO SIN LOS MODULOS NODE HAY QUE INSTALAR EN LA CARPETA RAIZ:
+ABRIR CMD EN CARPETA RAIZ DEL PROYECTO, ESCRIBIR "npm install react" DEJAR QUE TERMINE LA DESCARGA Y REALIZAR LOS PASOS ANTERIORES.
